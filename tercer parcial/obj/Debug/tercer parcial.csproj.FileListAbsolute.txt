@@ -1,0 +1,18 @@
+C:\SC\tercer parcial\tercer parcial\bin\Debug\tercer parcial.exe.config
+C:\SC\tercer parcial\tercer parcial\bin\Debug\tercer parcial.exe
+C:\SC\tercer parcial\tercer parcial\bin\Debug\tercer parcial.pdb
+C:\SC\tercer parcial\tercer parcial\obj\Debug\tercer parcial.csprojResolveAssemblyReference.cache
+C:\SC\tercer parcial\tercer parcial\obj\Debug\tercer_parcial.Form1.resources
+C:\SC\tercer parcial\tercer parcial\obj\Debug\tercer_parcial.Properties.Resources.resources
+C:\SC\tercer parcial\tercer parcial\obj\Debug\tercer parcial.csproj.GenerateResource.Cache
+C:\SC\tercer parcial\tercer parcial\obj\Debug\tercer parcial.exe
+C:\SC\tercer parcial\tercer parcial\obj\Debug\tercer parcial.pdb
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\tercer parcial\tercer parcial\bin\Debug\tercer parcial.exe.config
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\tercer parcial\tercer parcial\obj\Debug\tercer parcial.exe
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\tercer parcial\tercer parcial\obj\Debug\tercer parcial.pdb
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\tercer parcial\tercer parcial\bin\Debug\tercer parcial.exe
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\tercer parcial\tercer parcial\bin\Debug\tercer parcial.pdb
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\tercer parcial\tercer parcial\obj\Debug\tercer_parcial.Form1.resources
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\tercer parcial\tercer parcial\obj\Debug\tercer_parcial.Properties.Resources.resources
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\tercer parcial\tercer parcial\obj\Debug\tercer parcial.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\Google Drive\Programacion Avanzada (3)\tercer parcial\tercer parcial\obj\Debug\tercer parcial.csprojResolveAssemblyReference.cache
